@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Left Hand
+  - Right Hand
+  - Test Cube
+  - Medium Blocks
+  - High Blocks
+  - Low Blocks
+  - Y0 Medium Block
+  - B0 Low Block
+  - R1 High Block
+  - R2 High Block
+  - R3 High Block
+  - R4 High Block
+  - R5 High Block
+  - Y1 Medium Block
+  - Y2 Medium Block
+  - Y3 Medium Block
+  - B1 Low Block
+  - Trigger High
+  - Trigger Medium
+  - Trigger Low
+  - House
+  - Sponge
+  - Dam
+  - River
+  - SHouse 1
+  - SHouse 2
+  - SHouse 3
+  - SHouse 4
+  - HoseSMM
+  - HoseEMM
+  - HoseSFM
+  - HoseEFM
+  - Apple
+  - Orange
+  - Banana
+  - Worm
+  - Lid
+  - Beans
+  - Microwaved
+  - DirtCon
+  - Slides
+  - Root
+  - Tweez
+  - MicroDoor
+  - Pipette
+  - Pencil
+  - Beans2
+  - Ice
+  - MarshH
+  - MarshM
+  - MarshL
+  - Toothpick
+  - Petri
+  - Syringe
+  - Tripod
+  - Cam
+  - Lego
+  - Nozzle
+  - Petri 1
+  - Petri 2
+  - Petri 3
+  - Yeast
+  - Pipette15
+  - Pipette25
+  - Pipette35
+  - Balloon
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - boxSide
+  - Water
+  - UI
+  - 
+  - 
+  - TutorialHighlight
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1641910557
+    locked: 0
