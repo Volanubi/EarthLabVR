@@ -1,0 +1,204 @@
+newmtl FoamPadding1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0336986 0.0332455 0.034615 
+
+d 1
+
+Ns 0
+
+map_Ka FoamPadding1_diff.png
+map_Kd FoamPadding1_diff.png
+map_d FoamPadding1_diff.png
+
+map_Bump FoamPadding1_nmap.png
+
+map_Ns FoamPadding1_spec.png
+
+newmtl Magnets1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.373615 0.368591 0.383775 
+
+d 1
+
+Ns 255
+
+map_Ka Magnets1_diff.png
+map_Kd Magnets1_diff.png
+map_d Magnets1_diff.png
+
+map_Bump Magnets1_nmap.png
+
+map_Ns Magnets1_spec.png
+
+newmtl FoamPadding2Mtl
+Material Color
+Ka 0.0780566 0.0780566 0.0780566
+Kd 0.0780566 0.0780566 0.0780566
+Ks 0.00367325 0.00367325 0.00367325 
+
+d 1
+
+Ns 0
+
+map_Ka FoamPadding2_diff.png
+map_Kd FoamPadding2_diff.png
+map_d FoamPadding2_diff.png
+
+map_Bump FoamPadding2_nmap.png
+
+map_Ns FoamPadding2_spec.png
+
+newmtl MicroscopeSlide6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1 
+
+d 0.501961
+
+Ns 0
+
+map_Ka MicroscopeSlide6_diff.png
+map_Kd MicroscopeSlide6_diff.png
+map_d MicroscopeSlide6_diff.png
+
+newmtl MicroscopeSlide1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.373615 0.368591 0.383775 
+
+d 0.25098
+
+Ns 0
+
+map_Ka MicroscopeSlide1_diff.png
+map_Kd MicroscopeSlide1_diff.png
+map_d MicroscopeSlide1_diff.png
+
+map_Bump MicroscopeSlide1_nmap.png
+
+map_Ns MicroscopeSlide1_spec.png
+
+newmtl MicroscopeSlide2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1 
+
+d 0.501961
+
+Ns 0
+
+map_Ka MicroscopeSlide2_diff.png
+map_Kd MicroscopeSlide2_diff.png
+map_d MicroscopeSlide2_diff.png
+
+newmtl MicroscopeSlide4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1 
+
+d 0.501961
+
+Ns 0
+
+map_Ka MicroscopeSlide4_diff.png
+map_Kd MicroscopeSlide4_diff.png
+map_d MicroscopeSlide4_diff.png
+
+newmtl CaseLabel1Mtl
+Material Color
+Ka 0.464741 0.464741 0.464741
+Kd 0.464741 0.464741 0.464741
+Ks 0.0364503 0.0364503 0.0364503 
+
+d 1
+
+Ns 0
+
+map_Ka CaseLabel1_diff.png
+map_Kd CaseLabel1_diff.png
+map_d CaseLabel1_diff.png
+
+map_Bump CaseLabel1_nmap.png
+
+map_Ns CaseLabel1_spec.png
+
+newmtl CaseBase1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0175819 0.0173455 0.01806 
+
+d 1
+
+Ns 0
+
+map_Ka FoamPadding2_diff.png
+map_Kd FoamPadding2_diff.png
+map_d FoamPadding2_diff.png
+
+map_Bump FoamPadding2_nmap.png
+
+map_Ns FoamPadding2_spec.png
+
+newmtl Lid1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0293031 0.0289091 0.0301 
+
+d 1
+
+Ns 0
+
+map_Ka CaseLabel1_diff.png
+map_Kd CaseLabel1_diff.png
+map_d CaseLabel1_diff.png
+
+map_Bump CaseLabel1_nmap.png
+
+map_Ns CaseLabel1_spec.png
+
+newmtl HingePart1Mtl
+Material Color
+Ka 0.585973 0.585973 0.585973
+Kd 0.585973 0.585973 0.585973
+Ks 0.0275752 0.0275752 0.0275752 
+
+d 1
+
+Ns 0
+
+map_Ka FoamPadding2_diff.png
+map_Kd FoamPadding2_diff.png
+map_d FoamPadding2_diff.png
+
+map_Bump FoamPadding2_nmap.png
+
+map_Ns FoamPadding2_spec.png
+
+newmtl HingePart2Mtl
+Material Color
+Ka 0.190463 0.190463 0.190463
+Kd 0.190463 0.190463 0.190463
+Ks 0.00896296 0.00896296 0.00896296 
+
+d 1
+
+Ns 0
+
+map_Ka FoamPadding2_diff.png
+map_Kd FoamPadding2_diff.png
+map_d FoamPadding2_diff.png
+
+map_Bump FoamPadding2_nmap.png
+
+map_Ns FoamPadding2_spec.png
+

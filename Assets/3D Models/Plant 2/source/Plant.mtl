@@ -1,0 +1,15 @@
+# Blender MTL File: 'plant_20.blend'
+# Material Count: 1
+
+newmtl plant_20
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump plant_20/textures/atlas_normal.jpg
+map_Kd plant_20/textures/atlas_albedo.jpg
+map_Ns plant_20/textures/atlas_roughness.jpg
